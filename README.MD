@@ -1,5 +1,4 @@
-# Hi there! I'm Pâmela Camargo  
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlhOGFrdDVvMDc2NGI5NHVwcHU1Ymg2emF3aXNoNGZ6ZXZ1NWo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fx8fRGgRTCePwvSHsy/giphy.gif"/>
+# Hi there! I'm Pâmela Camargo <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlhOGFrdDVvMDc2NGI5NHVwcHU1Ymg2emF3aXNoNGZ6ZXZ1NWo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fx8fRGgRTCePwvSHsy/giphy.gif" width="50%" height="50%"/>
 🚀 **Quality Assurance Engineer | Test Automation**
 
 💡 Passionate about ensuring software quality through automation and best practices.
