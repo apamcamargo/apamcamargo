@@ -1,4 +1,4 @@
-# Hi there! I'm Pâmela Camargo <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlhOGFrdDVvMDc2NGI5NHVwcHU1Ymg2emF3aXNoNGZ6ZXZ1NWo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fx8fRGgRTCePwvSHsy/giphy.gif" width="80" height="80"/>
+# Hi, I'm Pâmela Camargo <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlhOGFrdDVvMDc2NGI5NHVwcHU1Ymg2emF3aXNoNGZ6ZXZ1NWo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Fx8fRGgRTCePwvSHsy/giphy.gif" width="80" height="80"/>
 
 ---
 
@@ -36,7 +36,7 @@ public class Pamela {
 
 ---
 
-## 📫 Let's Connect!
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNzOTB0MmE2aGx4cHVoM2NvY3E2d200c2tid3luazM3YWNtNXg2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eLv7gJpxqiQtbNNQUe/giphy.gif" width="80" height="80"/> Let's Connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/apamcamargo)\
 📧 [Email](mailto\:paamcamargo@hotmail.com)\
