@@ -19,7 +19,7 @@ I am a **Quality Assurance Engineer** with over **7 years of experience** in tes
 ```java
 public class Pamela {
     private String pronouns = "she/her";
-    private String[] code = {"Java", "Python", "JavaScript"};
+    private String[] code = {"Java"};
     private String[] tools = {"Selenium", "Appium", "Rest Assured", "Cucumber", "JUnit"};
     private String[] devOps = {"Jenkins", "Docker", "AWS"};
     private String[] testing = {"Postman", "Jira", "Xray", "Allure Report", "SQL"};
@@ -36,7 +36,7 @@ public class Pamela {
 
 ---
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNzOTB0MmE2aGx4cHVoM2NvY3E2d200c2tid3luazM3YWNtNXg2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eLv7gJpxqiQtbNNQUe/giphy.gif" width="80" height="80"/> Let's Connect!
+## Let's Connect! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFldGc4bnF1eHhqMWl4MTcwcTdmbW9peml3Znh6d3lubjV3ZWRqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d3mu9bOv2AH2OPsrcp/giphy.gif" width="80" height="80"/>
 
 💼 [LinkedIn](https://www.linkedin.com/in/apamcamargo)\
 📧 [Email](mailto\:paamcamargo@hotmail.com)\
