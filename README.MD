@@ -23,7 +23,6 @@ public class Pamela {
     private String[] tools = {"Selenium", "Appium", "Rest Assured", "Cucumber", "JUnit"};
     private String[] devOps = {"Jenkins", "Docker", "AWS"};
     private String[] testing = {"Postman", "Jira", "Xray", "Allure Report", "SQL"};
-    private String challenge = "I am enhancing my test automation frameworks and DevOps integration!";
 }
 ```
 
