@@ -8,7 +8,7 @@ I am a **Quality Assurance Engineer** with over **7 years of experience** in tes
 
 🔹 Skilled in **mobile (iOS/Android) automation** using **Appium**
 
-🔹 Expertise in **API testing** with **Rest Assured**
+🔹 **API testing** with **Rest Assured**
 
 🔹 Web test automation with **Selenium**
 
