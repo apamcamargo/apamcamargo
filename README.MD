@@ -6,7 +6,7 @@
 
 I am a **Quality Assurance Engineer** with over **7 years of experience** in test analysis and automation. Throughout my career, I've had the opportunity to work on **global projects**, enhancing my technical expertise and specializing in **test automation**.
 
-🔹 Skilled in **mobile (iOS/Android) automation** using **Appium**
+🔹 **Mobile (iOS/Android) automation** using **Appium**
 
 🔹 **API testing** with **Rest Assured**
 
